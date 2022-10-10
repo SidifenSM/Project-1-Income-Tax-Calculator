@@ -6,7 +6,7 @@
 
 
 print ("Enter the gross income: ", end=' ')
-grossinput = float(input('$'))
+grossinput = float(input())
 
 print ("Enter the number of dependents : ", end=' ')
 dependinput = int(input())
